@@ -4,7 +4,7 @@ import './Footer.css'
 export default function Footer() {
     return (
         <div className='footer'>
-            <p>© 2022 Air-bnb-clone! No rights reserved - this is a demo!</p>
+            <p>© 2022 Air-bnb-saumya! No rights reserved </p>
             <p>Privacy · Terms · Sitemap · Company Details</p>
         </div>
     )
